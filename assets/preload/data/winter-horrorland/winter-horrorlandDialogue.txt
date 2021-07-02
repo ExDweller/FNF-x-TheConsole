@@ -1,0 +1,28 @@
+:bf:[l]{s}Whoa!!! What happened?! 
+:bf:[l]{s}Shimo, what just happened??!!!
+:gf:[l]{s}My house!!
+:monster:Ah, what a pleasant sight you have here.
+:gf:{s}Ew. It's you.
+:bf:{s}We told you we're not interested in your-
+:monster:You two are looking for pages, correct?
+:bf:{s}...
+:monster:Don't worry. I'm just here to offer a deal with you. 
+:monster:I may give you proper directions to the next page you seek. 
+:monster:...Unlike that hooded fellow giving you a hard time.
+:bf:{s}W-we're taking a break from looking for pages right now. 
+:monster:Please, I insist. 
+:monster:There is a nearby forest with tons of competition. 
+:monster:The goal is to hunt other people, and the winner with the most hunts is rewarded with a page. 
+:monster:I suggest checking that out next. Sounds thrilling!~
+:gf:{s}That's too easy. What's the catch?
+:monster:Still doubting me, I see? 
+:monster:No worries. I've taken my payment in advance. 
+:monster:Your house is now mine.
+:gf:{s}[l]WHAT?!?!? YOU CAN'T DO THAT!!!!
+:monster:Seems like a small price to pay for my service. 
+:monster:And no worries about everyone here. I escorted them out safely. 
+:bf:{s}...
+:monster:And one last thing. 
+:monster:Amuse me, young one. 
+:monster:I've got a bone to pick with you from our last encounter. 
+:monster:{s}So consider this YOUR payment next.

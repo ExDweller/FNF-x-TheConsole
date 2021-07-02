@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speech_bubble_talking_ry.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talking_ry_normal0000" x="0" y="0" width="561" height="545" pivotX="333.95" pivotY="361.9"/>
+	<SubTexture name="talking_ry_tired0000" x="561" y="0" width="561" height="545" pivotX="333.95" pivotY="361.9"/>
+</TextureAtlas>

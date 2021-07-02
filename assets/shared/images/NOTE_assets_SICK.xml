@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assets_SICK_resized.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down_confirm_SICK_resized0000" x="0" y="0" width="251" height="242" frameX="-23" frameY="-11" frameWidth="274" frameHeight="264"/>
+	<SubTexture name="down_confirm_SICK_resized0001" x="251" y="0" width="224" height="214" frameX="-29" frameY="-31" frameWidth="274" frameHeight="264"/>
+	<SubTexture name="down_confirm_SICK_resized0002" x="475" y="0" width="271" height="258" frameX="-1" frameY="-3" frameWidth="274" frameHeight="264"/>
+	<SubTexture name="down_confirm_SICK_resized0003" x="746" y="0" width="273" height="264" frameX="0" frameY="0" frameWidth="274" frameHeight="264"/>
+	<SubTexture name="down_confirm_SICK_resized0004" x="1019" y="0" width="264" height="252" frameX="-3" frameY="-9" frameWidth="274" frameHeight="264"/>
+	<SubTexture name="left_confirm_SICK_resized0000" x="1283" y="0" width="254" height="243" frameX="-22" frameY="-12" frameWidth="276" frameHeight="267"/>
+	<SubTexture name="left_confirm_SICK_resized0001" x="1537" y="0" width="226" height="216" frameX="-29" frameY="-32" frameWidth="276" frameHeight="267"/>
+	<SubTexture name="left_confirm_SICK_resized0002" x="1763" y="0" width="274" height="260" frameX="0" frameY="-4" frameWidth="276" frameHeight="267"/>
+	<SubTexture name="left_confirm_SICK_resized0003" x="0" y="264" width="275" height="267" frameX="0" frameY="0" frameWidth="276" frameHeight="267"/>
+	<SubTexture name="left_confirm_SICK_resized0004" x="275" y="264" width="265" height="254" frameX="-3" frameY="-10" frameWidth="276" frameHeight="267"/>
+	<SubTexture name="right_confirm_SICK_resized0000" x="540" y="264" width="253" height="242" frameX="-22" frameY="-12" frameWidth="275" frameHeight="265"/>
+	<SubTexture name="right_confirm_SICK_resized0001" x="793" y="264" width="224" height="214" frameX="-29" frameY="-32" frameWidth="275" frameHeight="265"/>
+	<SubTexture name="right_confirm_SICK_resized0002" x="1017" y="264" width="272" height="259" frameX="-1" frameY="-4" frameWidth="275" frameHeight="265"/>
+	<SubTexture name="right_confirm_SICK_resized0003" x="1289" y="264" width="274" height="265" frameX="0" frameY="0" frameWidth="275" frameHeight="265"/>
+	<SubTexture name="right_confirm_SICK_resized0004" x="1563" y="264" width="264" height="252" frameX="-3" frameY="-10" frameWidth="275" frameHeight="265"/>
+	<SubTexture name="up_confirm_SICK_resized0000" x="0" y="531" width="253" height="242" frameX="-22" frameY="-12" frameWidth="275" frameHeight="265"/>
+	<SubTexture name="up_confirm_SICK_resized0001" x="253" y="531" width="225" height="214" frameX="-29" frameY="-32" frameWidth="275" frameHeight="265"/>
+	<SubTexture name="up_confirm_SICK_resized0002" x="478" y="531" width="273" height="259" frameX="0" frameY="-4" frameWidth="275" frameHeight="265"/>
+	<SubTexture name="up_confirm_SICK_resized0003" x="751" y="531" width="274" height="265" frameX="0" frameY="0" frameWidth="275" frameHeight="265"/>
+	<SubTexture name="up_confirm_SICK_resized0004" x="1025" y="531" width="264" height="253" frameX="-3" frameY="-10" frameWidth="275" frameHeight="265"/>
+</TextureAtlas>

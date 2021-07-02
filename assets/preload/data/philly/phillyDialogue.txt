@@ -1,0 +1,29 @@
+:pico:...
+:bf:So...?
+:pico:...Yeah. Good enough.
+:pico:I mean, I still won, but I'll let it slide.
+:bf:Uh, thanks?
+:pico:So, y'all need a route inside the castle up there, huh? 
+:pico:That's Kestrel's Kingdom. 
+:pico:Kestrel is a very sharp and alert leader, but she can get insane from too much time inside the castle. 
+:pico:She's kind of a shut in. 
+:pico:Anyways, her biggest weakness is her army. They act the same way she does. 
+:pico:When she's alert, they're alert. When she's down, they're down, too. Get me? 
+:pico:Y'all need to strike when her defenses are down. 
+:pico:Usually, she takes breaks on Sundays. That's tomorrow. 
+:pico:When she's on break, go to the back of the castle. 
+:pico:There's a broken window behind it that leads straight into the dungeon. 
+:pico:You go in there, then take the vent inside the third empty cell to your right. 
+:pico:Crawl until you see a library. That's where your page is. 
+:pico:Then simply take the same way you came in to get out. 
+:pico:Got it?
+:bf:You said the first or the fourth empty cell?
+:pico:...
+:gf:{s}I got it all. No worries.
+:pico:Good, cause I'm not repeating it. 
+:pico:Y'all gonna pay up now?
+:bf:{s}...pay?
+:gf:Can we get an acquaintance discount, please~?
+:pico:...
+:pico:Excuse me... 
+:pico:[l]{s}WHAT?!!!

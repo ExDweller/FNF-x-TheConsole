@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="momCar.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MOM DOWN POSE0000" x="0" y="0" width="559" height="819" frameX="0" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0001" x="559" y="0" width="556" height="819" frameX="-3" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0002" x="1115" y="0" width="570" height="819" frameX="-2" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0003" x="1685" y="0" width="563" height="819" frameX="-2" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0004" x="2248" y="0" width="560" height="819" frameX="-2" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0005" x="2808" y="0" width="558" height="819" frameX="-2" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0006" x="3366" y="0" width="564" height="819" frameX="-2" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0007" x="3930" y="0" width="564" height="819" frameX="-2" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0008" x="4494" y="0" width="564" height="819" frameX="-2" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0009" x="5058" y="0" width="570" height="819" frameX="-2" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0010" x="5628" y="0" width="563" height="819" frameX="-2" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0011" x="6191" y="0" width="560" height="819" frameX="-2" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0012" x="6751" y="0" width="558" height="819" frameX="-2" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0013" x="7309" y="0" width="564" height="819" frameX="-2" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="MOM DOWN POSE0014" x="0" y="819" width="564" height="819" frameX="-2" frameY="0" frameWidth="572" frameHeight="819"/>
+	<SubTexture name="Mom Idle0000" x="564" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0001" x="1080" y="819" width="515" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0002" x="1595" y="819" width="517" height="998" frameX="0" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0003" x="2112" y="819" width="516" height="998" frameX="0" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0004" x="2628" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0005" x="3145" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0006" x="3662" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0007" x="4179" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0008" x="4695" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0009" x="5211" y="819" width="519" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0010" x="5730" y="819" width="518" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0011" x="6248" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0012" x="6765" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0013" x="7281" y="819" width="520" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0014" x="0" y="1817" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0015" x="517" y="1817" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0016" x="1033" y="1817" width="519" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0017" x="1552" y="1817" width="518" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0018" x="2070" y="1817" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0019" x="2587" y="1817" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0020" x="564" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0021" x="1080" y="819" width="515" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0022" x="1595" y="819" width="517" height="998" frameX="0" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0023" x="2112" y="819" width="516" height="998" frameX="0" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0024" x="2628" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0025" x="3145" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0026" x="3662" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0027" x="4179" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0028" x="4695" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0029" x="5211" y="819" width="519" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0030" x="5730" y="819" width="518" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0031" x="6248" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0032" x="6765" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0033" x="7281" y="819" width="520" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0034" x="0" y="1817" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0035" x="517" y="1817" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0036" x="1033" y="1817" width="519" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0037" x="1552" y="1817" width="518" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0038" x="2070" y="1817" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0039" x="2587" y="1817" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0040" x="564" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0041" x="1080" y="819" width="515" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0042" x="1595" y="819" width="517" height="998" frameX="0" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0043" x="2112" y="819" width="516" height="998" frameX="0" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0044" x="2628" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0045" x="3145" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0046" x="3662" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0047" x="4179" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0048" x="4695" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0049" x="5211" y="819" width="519" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0050" x="5730" y="819" width="518" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0051" x="6248" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0052" x="6765" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0053" x="7281" y="819" width="520" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0054" x="0" y="1817" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0055" x="517" y="1817" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0056" x="1033" y="1817" width="519" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0057" x="1552" y="1817" width="518" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0058" x="2070" y="1817" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0059" x="2587" y="1817" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0060" x="564" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0061" x="1080" y="819" width="515" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0062" x="1595" y="819" width="517" height="998" frameX="0" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0063" x="2112" y="819" width="516" height="998" frameX="0" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0064" x="2628" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0065" x="3145" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0066" x="3662" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0067" x="4179" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0068" x="4695" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0069" x="5211" y="819" width="519" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0070" x="5730" y="819" width="518" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0071" x="6248" y="819" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0072" x="6765" y="819" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0073" x="7281" y="819" width="520" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0074" x="0" y="1817" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0075" x="517" y="1817" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0076" x="1033" y="1817" width="519" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0077" x="1552" y="1817" width="518" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0078" x="2070" y="1817" width="517" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Idle0079" x="2587" y="1817" width="516" height="998" frameX="-1" frameY="0" frameWidth="521" frameHeight="998"/>
+	<SubTexture name="Mom Left Pose0000" x="3103" y="1817" width="719" height="979"/>
+	<SubTexture name="Mom Left Pose0001" x="3822" y="1817" width="719" height="979"/>
+	<SubTexture name="Mom Left Pose0002" x="4541" y="1817" width="719" height="979"/>
+	<SubTexture name="Mom Left Pose0003" x="5260" y="1817" width="719" height="979"/>
+	<SubTexture name="Mom Left Pose0004" x="5979" y="1817" width="719" height="979"/>
+	<SubTexture name="Mom Left Pose0005" x="6698" y="1817" width="719" height="979"/>
+	<SubTexture name="Mom Left Pose0006" x="7417" y="1817" width="719" height="979"/>
+	<SubTexture name="Mom Left Pose0007" x="0" y="2815" width="719" height="979"/>
+	<SubTexture name="Mom Left Pose0008" x="719" y="2815" width="719" height="979"/>
+	<SubTexture name="Mom Left Pose0009" x="1438" y="2815" width="719" height="979"/>
+	<SubTexture name="Mom Pose Left0000" x="2157" y="2815" width="712" height="941"/>
+	<SubTexture name="Mom Pose Left0001" x="2869" y="2815" width="712" height="941"/>
+	<SubTexture name="Mom Pose Left0002" x="3581" y="2815" width="710" height="941" frameX="0" frameY="0" frameWidth="712" frameHeight="941"/>
+	<SubTexture name="Mom Pose Left0003" x="4291" y="2815" width="707" height="941" frameX="0" frameY="0" frameWidth="712" frameHeight="941"/>
+	<SubTexture name="Mom Pose Left0004" x="4998" y="2815" width="705" height="941" frameX="0" frameY="0" frameWidth="712" frameHeight="941"/>
+	<SubTexture name="Mom Pose Left0005" x="5703" y="2815" width="708" height="941" frameX="0" frameY="0" frameWidth="712" frameHeight="941"/>
+	<SubTexture name="Mom Pose Left0006" x="6411" y="2815" width="708" height="941" frameX="0" frameY="0" frameWidth="712" frameHeight="941"/>
+	<SubTexture name="Mom Pose Left0007" x="7119" y="2815" width="706" height="941" frameX="0" frameY="0" frameWidth="712" frameHeight="941"/>
+	<SubTexture name="Mom Pose Left0008" x="0" y="3794" width="706" height="941" frameX="0" frameY="0" frameWidth="712" frameHeight="941"/>
+	<SubTexture name="Mom Pose Left0009" x="706" y="3794" width="710" height="941" frameX="0" frameY="0" frameWidth="712" frameHeight="941"/>
+	<SubTexture name="Mom Up Pose0000" x="1416" y="3794" width="496" height="1085" frameX="-1" frameY="0" frameWidth="503" frameHeight="1085"/>
+	<SubTexture name="Mom Up Pose0001" x="1912" y="3794" width="493" height="1085" frameX="-8" frameY="0" frameWidth="503" frameHeight="1085"/>
+	<SubTexture name="Mom Up Pose0002" x="2405" y="3794" width="492" height="1085" frameX="-3" frameY="0" frameWidth="503" frameHeight="1085"/>
+	<SubTexture name="Mom Up Pose0003" x="2897" y="3794" width="503" height="1085"/>
+	<SubTexture name="Mom Up Pose0004" x="3400" y="3794" width="489" height="1085" frameX="-8" frameY="0" frameWidth="503" frameHeight="1085"/>
+	<SubTexture name="Mom Up Pose0005" x="3889" y="3794" width="489" height="1085" frameX="-3" frameY="0" frameWidth="503" frameHeight="1085"/>
+	<SubTexture name="Mom Up Pose0006" x="4378" y="3794" width="492" height="1085" frameX="0" frameY="0" frameWidth="503" frameHeight="1085"/>
+	<SubTexture name="Mom Up Pose0007" x="4870" y="3794" width="486" height="1085" frameX="-8" frameY="0" frameWidth="503" frameHeight="1085"/>
+	<SubTexture name="Mom Up Pose0008" x="5356" y="3794" width="492" height="1085" frameX="-3" frameY="0" frameWidth="503" frameHeight="1085"/>
+	<SubTexture name="Mom Up Pose0009" x="5848" y="3794" width="495" height="1085" frameX="0" frameY="0" frameWidth="503" frameHeight="1085"/>
+	<SubTexture name="Mom Up Pose0010" x="6343" y="3794" width="495" height="1085" frameX="-8" frameY="0" frameWidth="503" frameHeight="1085"/>
+	<SubTexture name="Mom Up Pose0011" x="6838" y="3794" width="494" height="1085" frameX="-3" frameY="0" frameWidth="503" frameHeight="1085"/>
+	<SubTexture name="Mom Up Pose0012" x="7332" y="3794" width="492" height="1085" frameX="0" frameY="0" frameWidth="503" frameHeight="1085"/>
+	<SubTexture name="Mom Up Pose0013" x="0" y="4879" width="484" height="1085" frameX="-8" frameY="0" frameWidth="503" frameHeight="1085"/>
+	<SubTexture name="Mom Up Pose0014" x="484" y="4879" width="491" height="1085" frameX="-3" frameY="0" frameWidth="503" frameHeight="1085"/>
+</TextureAtlas>

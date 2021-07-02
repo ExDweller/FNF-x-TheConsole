@@ -1,0 +1,50 @@
+:mom:{s}Ugh... You know what? 
+:mom:{s}Fine. 
+:mom:{s}Take what you need and get out. 
+:mom:{s}Just make it quick so I can sleep.
+:gf:{s}Well, that went in a different turn. 
+:gf:Sweet! C'mon cutie~ 
+:gf:... 
+:gf:{s}Tony?
+:bf:Everything good?
+:mom:{s}... 
+:mom:{s}Do you know how long I've been on duty? 
+:mom:{s}I'm supposed to be the princess next in line for the throne. 
+:mom:{s}However, the queen, my mom, hasn't come back from her escapade.
+:mom:{s}She's been gone for several months now. 
+:mom:{s}I was just left here to command HER men for her for WAY too long!
+:bf:Were you not able to get extra help all this time?
+:mom:{s}I mean, I have brothers who help sometimes... 
+:mom:{s}But they are a little... inexperienced in this sort of thing. 
+:mom:{s}...Well, they make sure I'm okay when I'm down... 
+:mom:{s}...and they bring me snacks when I'm doing paperwork... 
+:mom:{s}...and they clean the throne room when I'm busy ordering the army...
+:mom:{s}...and they help organize the army when I'm busy with something else...
+:mom:{s}...and they... 
+:mom:{s}...
+:bf:Sounds quite "experienced" to me.
+:mom:{s}I mean... I guess, but...
+:bf: Why don't you let them take over for a bit? 
+:bf:You're working yourself to the breaking point over here.
+:mom:{s}...
+:bf:And how about this. 
+:bf:Why don't we help you find your mother?
+:mom:{s}Whoa, okay. Calm down... Tony, right? 
+:mom:{s}You don't gotta do that for me. 
+:mom:{s}I'm just a castle gremlin.
+:bf:Shimo, you said that the pages held console commands, right?
+:gf:{s}Yeah? 
+:gf:Oh, I see! We can use those commands to bring your mother back, too.
+:mom:{s}That's a struggle, though. 
+:mom:{s}Finding the rest of the pages would take longer than what my caffeine-fueled body can handle.
+:bf:We have a handful of leads already. Don't think it'll take as long as you expect. 
+:bf:What do you say?
+:mom:{s}... 
+:mom:I'll follow you guys. On one condition, though.
+:bf:Yeah?
+:mom:Sing with me one last time. 
+:mom:I haven't had that much fun in ages! XP
+:bf:Heh! Sure thing! c:<
+:gf:*o*
+:mom:Also, I'll get the page for you guys when we're done. 
+:mom:[l]But don't expect me to hold back!

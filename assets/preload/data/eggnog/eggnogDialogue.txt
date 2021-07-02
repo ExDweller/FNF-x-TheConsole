@@ -1,0 +1,40 @@
+:gf:...
+:gf:{s}You know, Tony. 
+:gf:{s}I wish you didn't hear what John said earlier. 
+:gf:{s}He can be a stinker sometimes. 
+:bf:You know him?
+:gf:{s}He's a childhood friend of mine, but he's doing his own thing now.
+:gf:{s}Something about revenge. 
+:gf:{s}Dunno who that someone is, though.
+:bf:Huh. Sounds serious.
+:pico:...
+:bf:Wait. Is that...
+:bf:{s}Whoa! You were here this whole time?!
+:pico:Aren't y'all supposed to be finding pages?
+:gf:{s}Aren't you supposed to NOT sneak into my house?
+:pico:Aren't y'all supposed to be stupid?
+:bf:{s}What are you doing here, anyways?
+:pico:Fun Dip.
+:bf:But that's just the powder. 
+:bf:Where's the stick you eat it with?
+:pico:You eat Fun Dip?
+:gf:{s}Get out of here.
+:pico:No. I'm enjoying myself for once. 
+:pico:Also, hold up. 
+:pico:How'd you get Kestrel to side with y'all?
+:bf:Just a bit of understanding from her end, and everything's all good.
+:gf:{s}By the way, your infiltration route didn't work. It's outdated.
+:pico:Why did you trust ME with it? 
+:pico:I'm the least trustworthy person I know.
+:gf:{s}But you gave us the... 
+:gf:{s}Ugh. Never mind.
+:bf:{s}...
+:bf:Present time?
+:mom:[l]PRESENT TIME?!?!?!
+:gf:Heh, sure. Present time~
+:dad:But it's not even...!
+:dad:...
+:dad:{s}Eh, whatever.
+:pico:Did someone say "present time"?
+:gf:{s}You're not invited.
+:pico:Aww...

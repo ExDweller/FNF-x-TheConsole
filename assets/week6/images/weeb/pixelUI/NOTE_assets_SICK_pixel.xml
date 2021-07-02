@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assets_SICK_pixel.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down_confirm_SICK_pixel0000" x="0" y="0" width="47" height="40"/>
+	<SubTexture name="down_confirm_SICK_pixel0001" x="47" y="0" width="47" height="40"/>
+	<SubTexture name="down_confirm_SICK_pixel0002" x="94" y="0" width="47" height="40"/>
+	<SubTexture name="down_confirm_SICK_pixel0003" x="141" y="0" width="47" height="40"/>
+	<SubTexture name="down_confirm_SICK_pixel0004" x="188" y="0" width="47" height="40"/>
+	<SubTexture name="left_confirm_SICK_pixel0000" x="0" y="40" width="47" height="40"/>
+	<SubTexture name="left_confirm_SICK_pixel0001" x="47" y="40" width="47" height="40"/>
+	<SubTexture name="left_confirm_SICK_pixel0002" x="94" y="40" width="47" height="40"/>
+	<SubTexture name="left_confirm_SICK_pixel0003" x="141" y="40" width="47" height="40"/>
+	<SubTexture name="left_confirm_SICK_pixel0004" x="188" y="40" width="47" height="40"/>
+	<SubTexture name="right_confirm_SICK_pixel0000" x="0" y="80" width="47" height="40"/>
+	<SubTexture name="right_confirm_SICK_pixel0001" x="47" y="80" width="47" height="40"/>
+	<SubTexture name="right_confirm_SICK_pixel0002" x="94" y="80" width="47" height="40"/>
+	<SubTexture name="right_confirm_SICK_pixel0003" x="141" y="80" width="47" height="40"/>
+	<SubTexture name="right_confirm_SICK_pixel0004" x="188" y="80" width="47" height="40"/>
+	<SubTexture name="up_confirm_SICK_pixel0000" x="0" y="120" width="47" height="40"/>
+	<SubTexture name="up_confirm_SICK_pixel0001" x="47" y="120" width="47" height="40"/>
+	<SubTexture name="up_confirm_SICK_pixel0002" x="94" y="120" width="47" height="40"/>
+	<SubTexture name="up_confirm_SICK_pixel0003" x="141" y="120" width="47" height="40"/>
+	<SubTexture name="up_confirm_SICK_pixel0004" x="188" y="120" width="47" height="40"/>
+</TextureAtlas>

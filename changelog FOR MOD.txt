@@ -1,0 +1,23 @@
+# Changelog for FNF x TC
+All notable changes will be documented in this file.
+
+[1.0] - 5/17/2021
+-Released mod c:
+
+[1.1] - 5/18/2021
+-Fixed sky placement for Week 6.
+
+[1.2] - 5/21/2021
+-Added more Intro Text options.
+-Fixed Up Miss and Down Miss Notes where it showed my character's default outfit instead of the Christmas outfit lol how did I miss that.
+-Fixed typo in Week 6 Dialogue.
+
+[2.0] - 7/1/2021
+-Adds Dialogue for ALL weeks.
+-Sick notes will flash in style c:
+-Arrows be shmoovin' in the beginning of a song.
+-Main Menu be shmoovin' when opened. 
+-Adjusted timing offset for better accuracy.
+-Adjusted character offset for better character positioning.
+-Week 6 dialogue changed slightly.
+-Removed Options because it did nothing but softlock people lol

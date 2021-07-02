@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speech_bubble_talking_collector.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talking_collector_crazy0000" x="0" y="0" width="522" height="526"/>
+	<SubTexture name="talking_collector_normal0000" x="522" y="0" width="522" height="526"/>
+</TextureAtlas>

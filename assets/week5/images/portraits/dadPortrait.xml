@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speech_bubble_talking_xmas_apex.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="talking_apex_normal0000" x="0" y="0" width="531" height="532"/>
+	<SubTexture name="talking_apex_smirk0000" x="531" y="0" width="531" height="532"/>
+</TextureAtlas>

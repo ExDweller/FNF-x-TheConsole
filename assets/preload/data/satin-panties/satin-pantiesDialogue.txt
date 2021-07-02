@@ -1,0 +1,24 @@
+:bf:Well, here we are. 
+:bf:{s}Kinda nervous, though. Never did a heist before...
+:gf:Don't worry your pretty, little head~ 
+:gf:You've made it this far. I'm sure you'll do great~ 
+:gf:And if something were to happen, I'll have your back!
+:bf:... Wait. 
+:bf:Kestrel's army is down when she is down, right?
+:gf:Yup.
+:bf:So, how do we know when Kestrel herself is down? 
+:gf:She takes breaks every Sunday, cutie~
+:mom:[l] INCORRECT!!!
+:bf:[l]{s}AHHH!!! IT WASN'T ME!!!
+:gf:{s}...
+:mom:[l]Ha! I heard everything! 
+:mom:[l]Or at least, somewhat everything. Skimmed on some details.
+:gf:{s}How, though? We heard you take breaks on Sundays.
+:mom:[l]Not anymore I don't! 
+:mom:[l]I started trying this new drink called "coffee"! 
+:mom:[l]Haven't slept in two weeks because of it! 
+:mom:[l]Now, ALL of us are on alert 24/7!
+:gf:{s}What?? That can't last forever, though.
+:mom:[l]Well, so far it's been pretty good! 
+:mom:[l]Lemme show you how much energy this packs! 
+:mom:[l]Get ready!
